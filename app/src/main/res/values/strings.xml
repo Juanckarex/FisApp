@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FIS Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Interfaz Usuario</string>
+    <string name="second_fragment_label">Controlador de emociones</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+
+    <string name="lorem_ipsum">
+
+        El control de emociones es fundamental para el bienestar personal, ya que permite
+        gestionar las respuestas emocionales de manera consciente y efectiva, promoviendo
+        la estabilidad mental, mejores relaciones interpersonales y una toma de decisiones
+        más racional. Además, ayuda a reducir el estrés, la ansiedad y el impacto negativo
+        de situaciones adversas, fomentando un equilibrio emocional que mejora la calidad
+        de vida y la capacidad para enfrentar desafíos.\n\n
+
+        
+    </string>
+</resources>
